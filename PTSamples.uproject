@@ -14,5 +14,6 @@
 	],
 	"TargetPlatforms": [
 		"Android"
-	]
+	],
+	"EngineAssociation": "{7D3B4042-40BE-80F8-0D4C-7A8FF2208480}"
 }
